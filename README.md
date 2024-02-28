@@ -1,1 +1,1 @@
-# movie-recommendation
+# run app.py in your terminal
